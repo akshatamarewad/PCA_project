@@ -29,11 +29,11 @@
 
 - The legend indicates multiple categories (0 to 9), with overlap in some areas, potentially highlighting regions of similarity.
 
-## Prerequisites:
+## Required Libraries:
 
 - Python 3.x
 
-- Required Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
+-  numpy, pandas, matplotlib, seaborn, scikit-learn
 
 ## Install necessary libraries:
 
