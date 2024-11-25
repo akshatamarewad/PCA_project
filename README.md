@@ -1,4 +1,4 @@
-## Principal Component Analysis - Project Exercise
+## Principal Component Analysis
 
 - This project demonstrates the application of Principal Component Analysis (PCA) and Exploratory Data Analysis (EDA) for understanding and simplifying data. It explores key insights into the dataset through EDA and applies PCA for dimensionality reduction and visualization.
 ## Objectives:
